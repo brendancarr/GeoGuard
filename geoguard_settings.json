@@ -1,0 +1,17 @@
+{
+    "allowed_attempts": 5,
+    "ip2location_api_key": "",
+    "reset_time": 60,
+    "login_failed_delay": 1,
+    "inform_user": true,
+    "send_email": false,
+    "403_message": "Access denied due to suspicious activity.",
+    "admin_ip": "70.68.24.189",
+    "htaccess_dir": "\/home\/infinus\/public_html\/",
+    "blocked_countries": [
+        "CN",
+        "RU",
+        "KP"
+    ],
+    "whitelist": []
+}
