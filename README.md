@@ -4,7 +4,7 @@
 # GeoGuard
 
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
+[![GitHub last commit](https://img.shields.io/github/last-commit/brendancarr/GeoGuard)](https://img.shields.io/github/last-commit/brendancarr/GeoGuard)
 
 GeoGuard is a php-based class to be used as a firewall as part of your custom project. It will log connection attempts and block them at the .htaccess level.
 
