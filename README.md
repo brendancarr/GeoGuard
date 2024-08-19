@@ -1,5 +1,5 @@
 
-![GeoGuard IP2Location Firewall](https://github.com/brendancarr/GeoGuard/GeoGuard.jpg)
+![GeoGuard IP2Location Firewall](https://raw.githubusercontent.com/brendancarr/GeoGuard/main/GeoGuard.jpg)
 
 # GeoGuard
 
@@ -35,7 +35,7 @@ This will let you view all of the areas you can manage, including
 
 # Quick Start Demo
 
-![Settings Screen](https://github.com/brendancarr/GeoGuard/GeoGuardSettings.jpg)
+![Settings Screen](https://raw.githubusercontent.com/brendancarr/GeoGuard/main/GeoGuardSettings.jpg)
 
 Here's the settings screen that you will use to manage the class.
 
